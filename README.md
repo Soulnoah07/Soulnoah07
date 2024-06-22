@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for fulltime job
 - 📫 How to reach me :
-<br /> [<img src=" [<img src="https://www.instagram.com/soul_noah_/?next=%2F&hl=en&__coig_challenged=1"/>](https://www.linkedin.com/in/mutheeswaran-g-35342b203/)
+<br /> [<img src="https://www.instagram.com/soul_noah_/?next=%2F&hl=en&__coig_challenged=1"/>](https://www.linkedin.com/in/mutheeswaran-g-35342b203/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
