@@ -1,6 +1,6 @@
-- 👋 Hi, I’m soul_noah_
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning new technologies
+#Hi, I’m Mutheeswaran
+- I’m a web developer
+I’m currently learning new technologies
 - 💞️ I’m looking to collaborate with more frontend developers
 - 📫 How to reach me instgarm
 - 😄 Gender: Male 
